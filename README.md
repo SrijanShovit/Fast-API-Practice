@@ -1,5 +1,6 @@
 # Fast-API-Practice
 
-##Contents:
+#Contents:
 query and path parameters
+
 use of GET , POST , PUT , DELETE
